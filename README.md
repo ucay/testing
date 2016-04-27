@@ -1,1 +1,1 @@
-docs/installation.md
+docs/readme.md
